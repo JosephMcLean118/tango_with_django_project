@@ -25,9 +25,9 @@ program as you go through each chapter
 
 3. Run the test for that chapter:
    ```bash
-   python manage.py test rango.tests_chapterNUMBER
+   python manage.py test rango.tests_chapter<chapter-number>
    
-4. Return to main branch one test has been run
+4. Return to main branch once test has been run
    ```bash
    git checkout main
    
